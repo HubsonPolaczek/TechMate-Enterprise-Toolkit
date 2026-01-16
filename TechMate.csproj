@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net9.0-windows</TargetFramework>
+		<Nullable>disable</Nullable>
+		<UseWPF>true</UseWPF>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MaterialDesignThemes" Version="5.1.0" />
+		<PackageReference Include="MaterialDesignColors" Version="3.1.0" />
+		<PackageReference Include="System.Diagnostics.PerformanceCounter" Version="10.0.2" />
+		<PackageReference Include="System.Management" Version="8.0.0" />
+	</ItemGroup>
+</Project>
