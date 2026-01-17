@@ -2,6 +2,8 @@
 
 **TechMate** to nowoczesne, wielofunkcyjne narzędzie diagnostyczne dla administratorów IT i specjalistów CyberSecurity, napisane w **C# (WPF)** z wykorzystaniem **.NET 8.0**.
 
+![Podgląd Aplikacji](preview.png)
+
 ![Status](https://img.shields.io/badge/Status-Completed-success) ![.NET](https://img.shields.io/badge/.NET-8.0-purple) ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 🔥 Główne Funkcje
